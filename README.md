@@ -11,4 +11,5 @@ Then, Building the User Preference Interface
 
 It is done collect buyer preferences, such as the number of bedrooms, bathrooms, location, and other specific requirements from a set of questions or telling the buyer to enter their preferences in natural language
 
+All the requirements are installed over the notebook. Replace the fake API Kery with a OpenAI real API key to test it.
 
